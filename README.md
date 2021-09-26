@@ -1,10 +1,12 @@
 # Top Richest World in Company
 
+# Information about this website
+
 - I will fight for the company i work for better .
 - The company will have a good talk with everyone .
 - I will not calculate any profit from the company .
 
-This project was bootstrapped with [Create React App]().
+This project was bootstrapped with [Create React App](https://silly-brown-9defdd.netlify.app/).
 
 <!-- https://github.com/facebook/create-react-app -->
 
