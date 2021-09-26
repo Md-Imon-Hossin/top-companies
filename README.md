@@ -1,6 +1,6 @@
-# Top Richest World in Company
+# Top Richest World in Company .
 
-- I will fight for the company i work for better .
+- This project was done with react .
 - The company will have a good talk with everyone .
 - I will not calculate any profit from the company .
 
