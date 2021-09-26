@@ -1,10 +1,12 @@
 # Top Richest World in Company
 
-1. I will fight for the company i work for better .
-2. The company will have a good talk with everyone .
-3. I will not calculate any profit from the company .
+- I will fight for the company i work for better .
+- The company will have a good talk with everyone .
+- I will not calculate any profit from the company .
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]().
+
+<!-- https://github.com/facebook/create-react-app -->
 
 ## Available Scripts
 
