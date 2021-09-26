@@ -1,0 +1,30 @@
+.company {
+  background-color: #3794a7;
+  border: 1px solid #000;
+  margin: 10px 5px 20px 15px;
+  border-radius: 10px;
+  padding: 6px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+.company img {
+  width: 300px;
+  height: 170px;
+  border-radius: 10px;
+}
+.company button {
+  background-color: slateblue;
+  width: 160px;
+  height: 40px;
+  color: #fff;
+  border-radius: 10px;
+  border: 1px solid slateblue;
+  cursor: pointer;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+.company h3 {
+  font-weight: 400;
+}
+.company h2 {
+  font-weight: 500;
+}
