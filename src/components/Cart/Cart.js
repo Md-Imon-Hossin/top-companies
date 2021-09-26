@@ -9,7 +9,7 @@ const Cart = (props) => {
              <h2> Companies Added : {props.cart.length} </h2>
             <h3>Total Bil : {total}</h3>
             {
-                cart.map(company=>(company.company)) 
+                cart.map(company=>(<li>{company.company}</li> ))
             }
         </div>
     );
