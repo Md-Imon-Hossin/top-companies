@@ -1,12 +1,10 @@
 # Top Richest World in Company .
 
 - This project was done with react .
-- The company will have a good talk with everyone .
+- It shows world 10 company .
 - I will not calculate any profit from the company .
 
-This project was bootstrapped with [Create React App](https://silly-brown-9defdd.netlify.app/).
-
-<!-- https://github.com/facebook/create-react-app -->
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
